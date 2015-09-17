@@ -1,0 +1,23 @@
+{
+  "name": "graphite",
+  "version": "0.0.0",
+  "description": "make graphs get cash",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iainkirkpatrick/graphite.git"
+  },
+  "author": "iainkirkpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iainkirkpatrick/graphite/issues"
+  },
+  "homepage": "https://github.com/iainkirkpatrick/graphite"
+}
