@@ -15,3 +15,12 @@ NOTES:
 - use Ramda approach of breaking out useful chunks of logic into functions that are curried
 - demo page as being able to hook into datasets online, and draw graphs of them? not just CSV?
   - or local datasets to begin with, might be useful for some EDA analytics
+- NPM thinking: break each type of chart out into it's own module, so that a project can require in only the necessary types
+- somehow need to be designed so that multiple types can be comboed onto each other (with either separate data or mixed data ala RBNZ)
+
+TYPES:
+- bar
+- line
+- pie
+- Pro Evo diagram
+- (see only viz collections + D3 docs for more inspiration)
